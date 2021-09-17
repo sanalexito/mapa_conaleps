@@ -6,4 +6,6 @@ En este repositorio, usando los datos abiertos del Gobierno de México (https://
 
 ![image](https://user-images.githubusercontent.com/65984679/133854604-517ea868-77eb-4dcd-9a4b-fcce7d4649d6.png)
 
-Al hacer click sobre los marcadores se despliega la información del plantel.
+Al hacer click sobre los marcadores se despliega la información del plantel
+![image](https://user-images.githubusercontent.com/65984679/133855821-90dd2d0a-82a0-4c6b-9eb7-bb7b1cdf410e.png)
+
