@@ -1,7 +1,6 @@
 library(leaflet)
 library(tidyverse)
-dir <- "C:/Users/52552/Alexito/ejemplos_R/ubicaciones_conalep"
-setwd(dir)
+
 data <- read.csv("./GeoReferenciaPlanteles.csv")
 
 data <- data %>% filter(!data$latitud%in%"(null)" & !data$latitud%in%0) %>% 
