@@ -43,6 +43,12 @@ for(i in cve_ent){
 
 #Para visualizar los planteles por cada entidad se despliega cada uno de los mapas-
 View(mapa[[1]])
+View(mapa[[2]])
+...
+View(mapa[[32]]
 
-
-
+#Planteles por entidad federativa
+ data %>% group_by(entidad) %>% summarise(Tot_ent = n()) %>% 
+    ggplot(aes(x = entidad, y = Tot_ent, group = entidad, fill = entidad))+
+    geom_bar(stat = "identity")+
+    theme(axis.text.x = element_text(angle = 45), legend.position = "none")
