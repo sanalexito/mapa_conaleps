@@ -1,0 +1,316 @@
+clave_entidad,entidad,clave_plantel,plantel,cct,latitud,longitud,domicilio_plantel
+1,Aguascalientes,16,Prof. J. Refugio Esparza Reyes,01DPT0002I,21.88398517,-102.288039,Cosío Núm. 201 Norte
+1,Aguascalientes,63,Aguascalientes II,01DPT0001J,21.83684103,-102.2849464,Gregorio Ruiz Velasco Núm. 301
+1,Aguascalientes,47,Ing. Miguel Ángel Barberena Vega,01DPT0003H,21.96649194,-102.3518269,Av. Emiliano Zapata Esq. Francisco I. Madero S/N
+1,Aguascalientes,84,Aguascalientes III,01DPT0004G,21.93210267,-102.2564507,Sebastián de Lara 103 Esq. Gerónimo de la Cueva
+1,Aguascalientes,85,Tepezalá,01DPT0005F,22.22240111,-102.1666781,Av. El Chayote Esq. Arroyo Hondo S/N
+1,Aguascalientes,18,Aguascalientes IV,01DPT0006E,21.855982,-102.311554,Fortunato Maycotte Esq. José Aceves Díaz de Sandi
+1,Aguascalientes,19,Pabellon de Arteaga,01DPT0007D,22.1414608,-102.2848392,Ing. Alfonso Bernal Sahagún Esq. Felipe Ángeles
+2,Baja California,17,Mexicali I,02DPT0004F,32.569926,-115.348892,Av. Conalep S/N
+2,Baja California,18,Tijuana I,02DPT0010Q,32.476505,-116.943393,Blvd. Las Fuentes Núm. 920 
+2,Baja California,64,Ensenada,02DPT0006D,31.827143,-116.607814,Av. Granito Núm. 408
+2,Baja California,43,Tijuana II,02DPT0008B,32.513431,-116.971009,Av. Ermita Nte. Y Vía Rápida Pte. Zona Del Rio
+2,Baja California,54,Mexicali II,02DPT0012O,32.639412,-115.497992,Salina Cruz Núm. 1228 Entre Guasave y Q. Roo
+2,Baja California,15,Ing. César Moreno Martínez de Escobar,02DPT0014M,32.548441,-116.624079,Carr. Tecate-Ensenada Km. 2.5
+3,Baja California Sur,19,La Paz,03DPT0001H,24.13504,-110.3202031,A. Álvarez Rico Esq L. Núñez Avilés. S/N
+3,Baja California Sur,82,San José del Cabo,03DPT0002G,23.05505889,-109.6957669,Valerio González Canseco 909
+4,Campeche,20,Lic. Guillermo González Galera,04DPT0001G,19.805632,-90.530005,Av. Maestros Campechanos S/N
+4,Campeche,21,Ciudad del Carmen,04DPT0002F,18.660166,-91.836079,Av. Héroes del 21 de Abril de 1914 S/N
+4,Campeche,72,Dzitbalché Calkiní,04DPT0003E,20.33170994,-90.0562191,Km. 2 Carr. Dzitbalche-Calkini
+5,Coahuila de Zaragoza,10,Piedras Negras,05DPT0001F,28.67967,-100.554771,Lib. Manuel Pérez Treviño 510
+5,Coahuila de Zaragoza,23,Saltillo I,05DPT0002E,25.44946,-101.028385,Blvd. Francisco I. Madero Núm. 2300
+5,Coahuila de Zaragoza,24,Muzquiz,05DPT0004C,27.89837328,-101.5350437,Carr. Muzquiz-Boquillas Km. 3
+5,Coahuila de Zaragoza,66,Monclova,05DPT0003D,26.90506889,-101.4233261,Allende Núm. 103 Poniente
+5,Coahuila de Zaragoza,59,Ciudad Acuña,05DPT0005B,29.308209,-100.92367,Mina y Seguro Social S/N
+5,Coahuila de Zaragoza,16,Torreón,05DPT0007Z,25.523058,-103.396175,Calzada José Vasconcelos y Azuay S/N
+5,Coahuila de Zaragoza,17,Saltillo II,05DPT0006A,25.384317,-100.98146,Blvd. Miguel Hidalgo S/N
+5,Coahuila de Zaragoza,55,San Pedro de las Colonias,05DPT0008Z,25.757489,-103.015333,Km. 2 Carr. San Pedro-Torreón S/N
+5,Coahuila de Zaragoza,92,Frontera,05DPT0009Y,26.952146,-101.455114,Carr. 30 No 98
+6,Colima,61,Prof. Gustavo Alberto Vázquez Montes,06DPT0001E,19.090428,-104.293889,Av. Parotas S/N
+6,Colima,81,Colima,06DPT0181F,19.23611194,-103.7074611,Niños Héroes Núm. 1210
+6,Colima,13,Tecoman,06DPT0002D,18.904439,-103.88762,Rio Soto La Marina S/N
+7,Chiapas,22,Chiapa de Corzo,07DPT0002C,16.708592,-93.004404,Calle Libertad Núm. 654 Esq. Libramiento
+7,Chiapas,67,Huixtla,07DPT0003B,15.138326,-92.454149,Carr. Costera Huixtla-Tapachula Km. 3
+7,Chiapas,68,Tuxtla Chico,07DPT0004A,14.92987889,-92.17464194,Km. 12.5 Carr. Tapachula-Talismán
+7,Chiapas,69,Palenque,07DPT0009W,17.5398862,-91.9837522,Periférico Nte. Núm. 69
+7,Chiapas,70,Comitán,07DPT0001D,16.237956,-92.135725,Calle 11a Sur Pte. Núm. 135
+7,Chiapas,70,Tonalá-Chiapas,07DPT0007Y,16.081826,-93.77169,Km. 2 Carr. Tonalá-Paredón
+7,Chiapas,71,San Cristóbal de las Casas,07DPT0006Z,16.71331557,-92.61933804,Carr. Panamericana Km. 1174
+7,Chiapas,62,Ocosingo,07DPT0008X,16.89588,-92.09265,Periférico Sur Oriente Núm. 63
+7,Chiapas,12,Tuxtla Gutiérrez,07DPT0010L,16.749071,-93.197579,Carr. a Raymundo Enríquez Km. 2.5
+7,Chiapas,25,Tapachula,07DPT0011K,14.88178966,-92.29864508,Carr. Antiguo Aeropuerto S/N 
+7,Chiapas,31,Altamirano,07DPT0013I,16.718162,-92.044115,Carr. Libre Altamirano-San Cristóbal Km. 67
+8,Chihuahua,25,Chihuahua I,08DPT0001C,28.647545,-106.1273061,Av. de La Cantera Núm. 8303
+8,Chihuahua,26,Ciudad Juárez I,08DPT0002B,31.74951889,-106.4308731,Calle Sigma Y Omega S/N
+8,Chihuahua,56,Parral,08DPT0003A,26.9356417,-105.69113,Av. Niños Héroes S/N Carr. Santa Bárbara Km. 1.5
+8,Chihuahua,7,Ciudad Juárez II,08DPT0007X,31.665828,-106.394262,Cáñamo y Enebro S/N
+8,Chihuahua,8,Ciudad Delicias,08DPT0008W,28.16814694,-105.45714,Av. Conalep Sur Núm. 4101
+8,Chihuahua,18,Ciudad Cuauhtémoc,08DPT0012I,28.42238,-106.8731631,República de Venezuela S/N
+8,Chihuahua,19,Chihuahua II,08DPT0011J,28.69481306,-106.1106061,Av. Ma. Elena Hernández y Belisario Domínguez S/N
+8,Chihuahua,23,Juárez III,08DPT0013H,31.57115,-106.340661,Santiago Troncoso y Blvd. Fundadores S/N
+9,Ciudad de México,2,Ing. José Antonio Padilla Segura III,09DPT0002A,19.52145835,-99.14597869,Borrasca S/N y Av. Acueducto de Guadalupe
+9,Ciudad de México,3,Iztapalapa I,09DPT0004Z,19.36122941,-99.01404083,Av. Yucatán Núm. 25
+9,Ciudad de México,4,Aragón,09DPT0001B,19.450972,-99.0709005,Av. 599 Esq. 604
+9,Ciudad de México,11,Aztahuacán,09DPT0005Y,19.35734,-99.032136,Av. Plan de Ayala Núm. 395
+9,Ciudad de México,12,Xochimilco,09DPT0003Z,19.26953296,-99.12903786,CALZADA MÉXICO-XOCHIMILCO NÚM. 5722
+9,Ciudad de México,15,Venustiano Carranza I,09DPT0006X,19.41230759,-99.12657022,Prolongación Yunque Núm. 33
+9,Ciudad de México,6,Azcapotzalco,09DPT0007W,19.4874535,-99.1760838,Cda. de Cecati Núm. 13
+9,Ciudad de México,32,Aeropuerto,09DPT0008V,19.42418103,-99.05747652,Av. Acolhuacan S/N Esq. Aztecas
+9,Ciudad de México,61,Centro México Canadá del CONALEP,09DPT0010J,19.48390775,-99.21528697,Calle Macario Gaxiola S/N
+9,Ciudad de México,66,Comercio y Fomento Industrial,09DPT0013G,19.3055528,-99.26748276,Av. Ojo de Agua S/N Esq. Oyamel
+9,Ciudad de México,86,Tlalpan I,09DPT0017C,19.298028,-99.163404,Calle Del Rio Núm. 1
+9,Ciudad de México,89,Coyoacán,09DPT0014F,19.32513443,-99.1085887,Av. Canal Nacional Esq. Mariq. Sánchez
+9,Ciudad de México,95,Gustavo A. Madero I,09DPT0015E,19.53082256,-99.14394557,Av. Carr. Tenayuca-Chalmita S/N
+9,Ciudad de México,96,Iztapalapa II,09DPT0016D,19.383555,-99.052725,Av. Antonio Leon Loyola Núm. 147
+9,Ciudad de México,9,Magdalena Contreras,09DPT0024M,19.311049,-99.229527,Calle Durango Núm. 17
+9,Ciudad de México,10,Iztacalco I,09DPT0020Q,19.403006,-99.066162,Calzada Ignacio Zaragoza Núm. 1060
+9,Ciudad de México,11,Iztapalapa V,09DPT0022O,19.372481,-99.005955,Ahuehuetes S/N Entre Encinos Y Pirules
+9,Ciudad de México,12,Tlalpan II,09DPT0018B,19.282678,-99.206779,Jesús Lecuona Núm. 98
+9,Ciudad de México,20,Alvaro Obregón I,09DPT0027J,19.36022023,-99.21682119,Prolongación Av. 5 de Mayo Núm. 615
+9,Ciudad de México,21,Alvaro Obregón II,09DPT0028I,19.35428854,-99.21388149,Av. Rómulo O Farril S/N
+9,Ciudad de México,24,Gustavo A. Madero II,09DPT0031W,19.50534762,-99.08695936,Av. Eduardo Molina Esq. Rio de Los Remedios
+9,Ciudad de México,25,Iztapalapa IV,09DPT0029H,19.29155735,-99.06938553,Damiana Esq. Finisachi S/N Unidad Cananea
+9,Ciudad de México,26,Iztapalapa III,09DPT0021P,19.334432,-99.079261,Nautla Esq. Ciruelos S/N
+9,Ciudad de México,27,Milpa Alta,09DPT0019A,19.18575425,-99.06593084,Prolongación Zaragoza S/N
+9,Ciudad de México,30,Tláhuac,09DPT0030X,19.28437806,-98.99406389,Mar de los Vapores Mza. 181 Lote 4
+9,Ciudad de México,45,Venustiano Carranza II,09DPT0023N,19.422715,-99.058785,Tenochtitlan S/N Esq. Circunvalación
+9,Ciudad de México,67,Santa Fe,09DPT0011I,19.35088869,-99.28429484,Av. Juárez Núm. 6 Esq. Prolongación 16 de Septiembre
+9,Ciudad de México,3,Instituto Antares A.C.,09PPT0001G,(null),(null),Callejón los Mendoza Núm 16
+10,Durango,30,Durango,10DPT0001R,24.064569,-104.609467,Selenio Lote Ote. Núm. 1 Mza. 4
+10,Durango,46,Centro Mexicano Francés del CONALEP,10DPT0002Q,25.57244111,-103.5246489,AV. ARMANDO DEL CASTILLO FRANCO S/N
+10,Durango,99,Tayoltita,10DPT0004O,24.1071952,-105.9246688,Callejon Hospital S/N
+11,Guanajuato,28,Celaya,11DPT0001Q,20.55131124,-100.8202565,Av. México-Japón Eje Ote. Poniente S/N
+11,Guanajuato,29,Irapuato,11DPT0002P,20.64724079,-101.3457441,Av. Fiesta Charra S/N
+11,Guanajuato,30,Felipe Benicio Martínez Chapa,11DPT0003O,21.06616,-101.675956,Camino Ramal a los Ramirez S/N
+11,Guanajuato,72,Valle de Santiago,11DPT0005M,20.39054919,-101.1729348,Calle Pipila S/N
+11,Guanajuato,28,Moroleón,11DPT0004N,20.11975843,-101.1878479,Calle Salvador Díaz Mirón Núm. 175
+11,Guanajuato,63,Acámbaro,11DPT0006L,20.03857,-100.76105,Carr. Acambaro-Salvatierra Km. 2.5
+11,Guanajuato,74,Pénjamo,11DPT0009I,20.4237941,-101.7259097,Av. CONALEP No. 7
+11,Guanajuato,3,León II,11DPT0007K,21.10906127,-101.6302943,Obelisco S/N
+11,Guanajuato,4,Silao,11DPT0010Y,20.96385,-101.4182,Camino a Sopeña S/N
+11,Guanajuato,33,Cortazar,11DPT0008J,20.48768519,-100.9497643,Camino a Merino S/N
+11,Guanajuato,49,Salvatierra,11DPT0011X,20.230796,-100.940736,Carr. Salvatierra-Yuriria KM. 7.5
+11,Guanajuato,70,San José Iturbide,11DPT0012W,21.00454437,-100.4001367,Camino Hacienda de los Remedios S/N
+11,Guanajuato,2,León III,11DPT0013V,21.237875,-102.0892917,Av. Marques S/N
+11,Guanajuato,3,San Felipe,11DPT0014U,21.49472225,-101.1907339,Camino Alvaral Nte.
+11,Guanajuato,21,Salamanca,11DPT0015T,20.57409261,-101.210196,Calle Morelos No. 1006
+11,Guanajuato,27,Irapuato II,11DPT0016S,20.78809412,-101.3314962,Río Tajo Núm. 181
+12,Guerrero,27,Zihuatanejo,12DPT0005L,17.65298,-101.549515,Av. el Hujal Núm. 29
+12,Guerrero,11,Acapulco I,12DPT0006K,16.887738,-99.837039,Carr. Nacional México Acapulco Km. 394
+12,Guerrero,12,Iguala,12DPT0002O,18.344955,-99.523465,Av. del Estudiante Núm. 11
+12,Guerrero,13,Chilpancingo,12DPT0007J,17.53528087,-99.50574338,Calle Eusebio Mendoza S/N
+12,Guerrero,33,Chilapa,12DPT0008I,17.594195,-99.166125,Av. Constitución Núm. 2406
+12,Guerrero,34,Tixtla,12DPT0009H,17.57125,-99.393076,Calle Ildefonso López Parra Núm. 26
+12,Guerrero,39,Ometepec,12DPT0010X,16.684028,-98.413918,Prolongación Nicolás Bravo Núm. 43
+12,Guerrero,6,Acapulco II,12DPT0003N,16.811779,-99.821105,Av. Miramar
+12,Guerrero,34,Buenavista de Cuéllar,12DPT0011W,0,0,Calle de la Campana S/N
+12,Guerrero,35,Tlapa de Comonfort,12DPT0004M,0,0,Calle Huitziloxtli S/N
+13,Hidalgo,31,Pachuca,13DPT0001O,20.065865,-98.737435,"""Carr. Pachuca Cd.Sag. Km. 4.5 Parque Industrial Canac. S/N"""
+13,Hidalgo,78,Tizayuca,13DPT0002N,19.82431111,-98.97581611,"""Ote. 3 Sur 2 Lote 3"""
+13,Hidalgo,14,Tepeji del Río,13DPT0003M,19.91330012,-99.35258389,Carr. México-Querétaro Km 72
+13,Hidalgo,50,Tulancingo,13DPT0004L,20.11463817,-98.41366857,Carr. Tulancingo-Acatlan Km. 4.5
+13,Hidalgo,87,Villa de Tezontepec,13DPT0005K,19.8892,-98.81287,Calle Juan Escutia S/N
+13,Hidalgo,88,Pachuca II,13DPT0006J,20.05189,-98.773291,Av. Principal Lote C 
+13,Hidalgo,30,Atitalaquia,13DPT0007I,20.03835556,-98.23833889,Av. Nte Núm. 10
+14,Jalisco,32,"""Lic. Francisco Medina Ascencio Mexicano-Italiano""",14DPT0009F,20.63955586,-103.4226108,Felipe Ruvalcaba S/N Esq. Salvador Vargas
+14,Jalisco,71,Guadalajara II,14DPT0001N,20.63448982,-103.3941901,Isla Salomon Núm. 2553
+14,Jalisco,74,Arandas,14DPT0005J,20.70547,-102.3356187,Presidente Gustavo Díaz Ordaz Núm. 40
+14,Jalisco,75,Puerto Vallarta,14DPT0012T,20.634048,-105.2243,"""Viena Núm. 111 Esq. Francisco Villa"""
+14,Jalisco,76,Guadalajara I,14DPT0007H,20.61277925,-103.33354,Bajío Núm. 115
+14,Jalisco,77,Tlaquepaque,14DPT0004K,20.63511233,-103.287524,Esteban Ramírez Núm. 220
+14,Jalisco,78,José Ma. Martínez R.,14DPT0006I,19.69400329,-103.2400355,Blvd. Salvador Esquer A. Núm. 36
+14,Jalisco,10,Jalostotitlán,14DPT0003L,21.16342663,-102.4813914,Prolongación Tierras Blancas S/N
+14,Jalisco,31,Juanacatlán,14DPT0014R,20.49591843,-103.1712422,Km. 1 Carr. Ex-Hacienda de Zapotlanejo S/N
+14,Jalisco,68,Lagos de Moreno,14DPT0013S,21.320128,-101.927602,Av. CONALEP S/N
+14,Jalisco,82,Acatlán de Juárez,14DPT0008G,20.29637379,-103.6026621,Av. CONALEP Núm.5
+14,Jalisco,34,Guadalajara III,14DPT0011U,20.71304555,-103.332274,"""Prolongación. Av. Pataria S/N Esq. Ángel Martínez"""
+14,Jalisco,35,Profra. Idolina Gaona de Cosio - Tonalá,14DPT0010V,20.63127547,-103.2780504,Dunas Nte. Núm. 180
+14,Jalisco,58,Zapopan,14DPT0015Q,20.63155795,-103.4066248,Francisco Villa S/N
+14,Jalisco,60,La Barca,14DPT0002M,20.30872895,-102.5440049,Av.CONALEP Núm. 90
+14,Jalisco,81,Ajijic-Chapala,14DPT0016P,20.303407,-103.224331,Libramiento Chapala-Ajijic Núm. 202
+14,Jalisco,93,Puerto Vallarta II,14DPT0017O,20.705629,-105.217025,Av. Federación Núm. 412
+14,Jalisco,22,Tapalpa,14DPT0018N,19.92959,-103.74649,"""Durazno Núm. 288 """
+14,Jalisco,7,Josefina Dueñas Montoya A.C.,99XXX9999X,2071978,2071978,NULL
+15,México,1,Ciudad Azteca,15DPT0004J,19.54787912,-99.03166294,"""Fuego Nuevo y Av. 10 Blvd. Tonatiuh Cd. Azteca 2A"""
+15,México,6,Gustavo Baz - Tlalnepantla,15DPT0012S,19.56540194,-99.20219,Av. Gustavo Baz Esq. Jacarandas
+15,México,8,El Oro,15DPT0007G,19.80351889,-100.1320331,Av. Central Lote 13 y 14 
+15,México,13,Valle de Aragón,15DPT0005I,19.49886111,-99.05413694,"""Prolongación Miguel Alemán Núm. 117 A entre dgo. y Vía Ferrocaril"""
+15,México,14,Del Sol,15DPT0006H,19.42859249,-99.03068662,Av. Aurelio Ramos 5A. Esq. Av.Víctor S/N
+15,México,33,Atlacomulco,15DPT0002L,19.79902912,-99.88745391,"""Circuito Víal Dr. Jorge Jiménez Cantú S/N Ote."""
+15,México,34,Toluca,15DPT0013R,19.32640604,-99.6689558,"""Fraternidad S/N """
+15,México,79,Santiago Tianguistenco,15DPT0009E,19.16251779,-99.46752191,Ponciano Díaz Núm. 104
+15,México,80,Temoaya,15DPT0008F,19.47237552,-99.58638668,Km. 1 Carr. Centro Ceremonial Otomí
+15,México,81,Almoloya del Río,15DPT0001M,19.15866669,-99.48537469,Profr. Agripin García Estrada Núm 3
+15,México,82,Villa Victoria,15DPT0014Q,19.44417466,-100.0133085,Carr. Villa Victoria-El Oro Km. 2.5
+15,México,7,Chimalhuacán,15DPT0003K,19.44498267,-98.97158146,Ameyalco S/N.
+15,México,8,Cuautitlán I,15DPT0015P,19.6710568,-99.21285152,Av. 1° de Mayo Núm. 2 y Quetzalcóatl
+15,México,9,Ing. Bernardo Quintana Arrioja - Cuautitlán,15DPT0016O,19.67479476,-99.2106843,"""Av. Dr. Jorge Jiménez Cantú Núm. 1000 SUR"""
+15,México,25,El Zarco,15DPT0042M,19.29389789,-99.35351729,Carr. México-Toluca KM. 35.5
+15,México,26,Santiago Tilapa,15DPT0035C,19.18701951,-99.43217039,Av. EJército del Trabajo Núm. 574
+15,México,83,Atizapán I,15DPT0017N,19.552693,-99.2667,"""Av. Presidente Ruíz Cortinez S/N Esq. Teotihuacán"""
+15,México,84,Coacalco,15DPT0018M,19.6393,-99.11958111,Bosque Central Núm. 179
+15,México,85,Texcoco,15DPT0027U,19.54290694,-98.86608806,Parcela Escolar S/N Ejido San José Texopa
+15,México,87,Naucalpan I,15DPT0023Y,19.44468928,-99.27034736,Prolongación Miguel Negrete Esq. Alta Tensión
+15,México,88,Naucalpan II,15DPT0022Z,19.44506225,-99.25001621,Av. Granjas S/N entre Júpiter y Pino Suárez
+15,México,90,Nezahualcóyotl I,15DPT0024X,19.47806889,-99.03548611,Plaza San Pedro San Jacinto y P. Villa de Madrid S/N
+15,México,91,Nezahualcóyotl II,15DPT0025W,19.4786468,-99.03616905,Circuito Rey Neza y 4a. Av. S/N
+15,México,92,Ecatepec I,15DPT0019L,19.64684619,-99.00193334,Cerrada CONALEP S/N
+15,México,93,Tlalnepantla I,15DPT0028T,19.51062889,-99.16524306,Av. ExHda. De en medio Esq. Río de los Remedios S/N
+15,México,94,Tultitlán,15DPT0029S,19.6267978,-99.15749609,Cipres S/N Vía José López Portillo Km. 6
+15,México,97,Los Reyes la Paz,15DPT0026V,19.38526254,-98.93736184,Carr. México-Texcoco km 25.5 Esq. Camino
+15,México,98,Huixquilucan,15DPT0041N,19.35888393,-99.34467137,Km. 1.5 Carr. Huixquilucan-Zacamulpa
+15,México,99,Lerma,15DPT0021Z,19.29325554,-99.51621473,Juan Aldama Núm. 10
+15,México,22,Ecatepec II,15DPT0036B,19.5069974,-99.02910948,Av. Manuel Avila Camacho Esq. Alhóndiga de Granaditas S/N
+15,México,23,Ecatepec III,15DPT0030H,19.6257064,-99.06261563,Av. Venustiano Carranza Esq. Francisco Villa
+15,México,28,Tlalnepantla II,15DPT0033E,19.53855263,-99.11210239,Alpino Tláloc S/N 
+15,México,29,Nezahualcóyotl III,15DPT0038Z,19.41694389,-98.98944389,Calle san bartolo Núm. 149 
+15,México,31,Tlalnepantla III,15DPT0037A,19.57618589,-99.18925881,Calle 10 S/N
+15,México,36,Ixtapaluca,15DPT0032F,19.31724,-98.93164889,Vicente Guerrero Núm. 2
+15,México,37,Nicolás Romero,15DPT0034D,19.6290188,-99.30924207,Margarita Maza de Juárez S/N 
+15,México,38,Tecámac,15DPT0039Z,19.69670249,-98.97799194,Antigua Carr. Federal México-Pachuca Km. 36.5 
+15,México,48,Atizapán II,15DPT0040O,19.60702013,-99.23129976,Calle del Toril y del Rodeo S/N
+15,México,63,Chalco,15DPT0043L,19.27145216,-98.90703678,Huitzilopochtli Mza. 13 Lote 14 
+16,Michoacán de Ocampo,35,Lázaro Cárdenas,16DPT0001L,17.9703417,-102.2165394,Av. Galeanas y Bugambilias Núm. 1 
+16,Michoacán de Ocampo,83,Morelia I,16DPT0002K,19.71927179,-101.1512196,Ave. Ote. Pte. Núm. 535 
+16,Michoacán de Ocampo,84,Pátzcuaro,16DPT0003J,19.54091287,-101.6109824,Carr. Patzcuaro-Uruapan Ant. Internado Núm. 3
+16,Michoacán de Ocampo,85,Apatzingán,16DPT0008E,19.07903,-102.35905,Lic. Francisco Primo de Verdad S/N
+16,Michoacán de Ocampo,86,Zacapu,16DPT0006G,19.83092,-101.7715231,CERRADA DE CONALEP NO. 131  PARQUE INDUSTRIAL
+16,Michoacán de Ocampo,87,La Piedad,16DPT0004I,20.33834429,-102.0407581,Cuitzeo Núm. 325
+16,Michoacán de Ocampo,88,Zamora,16DPT0007F,20.01418038,-102.2853112,Av. Tancitaro S/N
+16,Michoacán de Ocampo,89,Uruapan,16DPT0005H,19.45559594,-101.9998196,Km. 7 Carr. Federal Uruapan-Patzcuaro 
+16,Michoacán de Ocampo,67,Sahuayo,16DPT0009D,20.05509806,-102.7074639,Av. Panama S/N
+16,Michoacán de Ocampo,80,Los Reyes,16DPT0010T,19.6326444,-102.4939227,AV. JOSÉ MA. MARTÍNEZ NÚM. 40
+16,Michoacán de Ocampo,39,Morelia II,16DPT0011S,19.71412,-101.22781,Terrenos del Antiguo Aeropuerto Morelos S/N 
+16,Michoacán de Ocampo,40,Zitácuaro,16DPT0012R,19.45198475,-100.2986526,Carr. Toluca-Zitacuaro Km. 87.5 
+16,Michoacán de Ocampo,56,Ciudad Hidalgo,16DPT0013Q,19.6858283,-100.5469072,Padre Garibay Núm. 1 
+17,Morelos,36,Temixco,17DPT0001K,18.84351585,-99.23336506,Av. CONALEP Núm. 28
+17,Morelos,73,Cuautla,17DPT0002J,18.834474,-98.960253,Priv. Lázaro Cárdenas 4-C 
+17,Morelos,41,Cuernavaca,17DPT0004H,18.89586955,-99.22684193,Km. 94 Carr. México-Acapulco
+17,Morelos,83,Tepoztlán,17DPT0003I,18.950291,-99.077969,Carr. Tepoztlan-Yautepec Km. 7.5 F. Mina Tezontle 
+17,Morelos,94,Jiutepec - Calera Chica,17DPT0005G,18.89706868,-99.16620255,EXUBERANCIA S/N
+18,Nayarit,69,Tepic,18DPT0001J,21.52634121,-104.8804235,Av. CONALEP Núm. 1
+18,Nayarit,57,Peñita de Jaltemba,18DPT0002I,21.04673,-105.241277,Km. 92 Carr. Tepic-Puerto Vallarta 
+18,Nayarit,10,Tepic II,18DPT0003H,21.48938,-104.837,Av. Alejandrina Esq. Blvd. Topacio 
+18,Nayarit,11,Bahia de Banderas,18DPT0004G,20.72667,-105.26518,Valle de Orizaba Esq. Av. Valle de México 
+19,Nuevo León,37,Ing. José Antonio Padilla Segura I,19DPT0001I,25.70231484,-100.2650124,Isidoro Garza Núm. 500 
+19,Nuevo León,38,Lic. Raúl Rangel Frias,19DPT0002H,25.66424389,-100.2137781,Serafín Peña y Emiliano Zapata 
+19,Nuevo León,90,Don Protasio Rodríguez Cuéllar,19DPT0003G,24.85095479,-99.55574512,Lerdo de Tejada y Ricardo Castro S/N
+19,Nuevo León,91,San Nicolás de los Garza I,19DPT0005E,25.72887219,-100.2572393,Av. Adolfo López Mateos Km. 2.5 S/N
+19,Nuevo León,23,Dr. Eduardo Macías Santos,19DPT0006D,25.70627161,-100.3022575,Mariano Arista Núm. 3301 
+19,Nuevo León,35,Dr. Arroyo,19DPT0004F,23.66934517,-100.1868367,José María Morelos Núm. 31 
+19,Nuevo León,13,Don José María Hernández Martínez,19DPT0007C,25.74346569,-100.2564561,Av. Arroyo y Artículo 123 S/N
+19,Nuevo León,42,Don Humberto Lobo Villarreal,19DPT0008B,25.66742037,-100.4653573,Calle 1ra. Av. Núm. 900 
+19,Nuevo León,54,Ing. Adrián Sada Treviño,19DPT0009A,25.73507389,-100.3780511,Prolongación Ruíz Cortines Esq. 10 de mayo
+19,Nuevo León,89,Dr. Carlos Canseco González,19DPT0015L,25.73233098,-100.1621389,Gaspar Castaños S/N Esq. Rhodesia del norte 
+19,Nuevo León,90,Don Carlos Maldonado Elizondo,19DPT0014M,25.36337557,-100.097208,Santa Teresa y Calzada Santa María 
+19,Nuevo León,95,Don Víctor Gómez Garza,19DPT0016K,25.67617573,-100.1733184,Av. Miguel Ramos Arizpe S/N
+19,Nuevo León,96,Don Benjamín Salinas Westrup,19DPT0017J,25.64781059,-100.0730681,Iris Núm. 220
+19,Nuevo León,0,Joel Rocha Barocio,19DPT0018I,25.9550433,-100.1686084,Camino a Tierra Blanca Km. 1.5
+19,Nuevo León,14,José María Parás y Ballesteros,19DPT0019H,25.31426917,-99.99382496,Carr. Allende Cadereyta Km. 31
+19,Nuevo León,32,Cadereyta Jiménez,19DPT0021W,25.5895393,-99.9842396,Carr. a Chihuahua Km. 4.1 
+19,Nuevo León,33,San Bernabé,19DPT0020X,25.7574168,-100.3662547,Prolongación Aztlán S/N 
+20,Oaxaca,39,Oaxaca,20DPT0001Y,17.020383,-96.70718,Av. CONALEP Núm. 137 Ex Hda. la Experimenta
+20,Oaxaca,45,Gral. Antonio de León,20DPT0003W,17.83416915,-97.72742271,Km. 7.5 Carr. Huajuapan-Tehuacan 
+20,Oaxaca,55,Salina Cruz,20DPT0004V,16.16777916,-95.17354131,Prolongación playa abierta S/N
+20,Oaxaca,57,Dr. Victor Bravo Ahuja-Tuxtepec,20DPT0002X,18.0139114,-96.1775924,Av. Principal del parque industrial S/N 
+20,Oaxaca,58,Puerto Escondido,20DPT0005U,15.87206201,-97.07406878,3ra. Pte. 909 Sector Juárez 
+20,Oaxaca,43,Juchitán,20DPT0006T,16.44777405,-95.01130521,Carr. Panamericana Km. 822.5 
+21,Puebla,40,Puebla I,21DPT0001X,19.06930702,-98.15644473,Calle G. Esq. S/N
+21,Puebla,93,Atencingo,21DPT0002W,18.502228,-98.619348,Domicilio conocido S/N 
+21,Puebla,49,San Martín Texmelucan,21DPT0003V,19.24578094,-98.40127945,Francisco. Villa y Nicolas Bravo S/N
+21,Puebla,50,Tehuacán,21DPT0006S,18.44532872,-97.40410388,Calle 12 Sur Núm. 1314 
+21,Puebla,51,Calipam,21DPT0004U,18.29330897,-97.17416346,Km. 31.8 Carr. Tehuacán-Teotitlán 
+21,Puebla,52,Huauchinango,21DPT0005T,20.175172,-98.068235,Artículo 115 Contitucional S/N
+21,Puebla,53,Teziutlán,21DPT0007R,19.800655,-97.370968,Circuito Rafael Martínez de la Torre S/N 
+21,Puebla,75,Puebla II,21DPT0008Q,19.05778,-98.257,Cda. Golfo centro Núm. 37 
+21,Puebla,61,Puebla III,21DPT0010E,18.991256,-98.240433,Prolongación 11 sur y circuito B norte S/N 
+21,Puebla,65,Chipilo,21DPT0009P,18.999133,-98.346112,Km. 15.5 Carr. Federal Puebla-Atlixco 
+22,Querétaro de Arteaga,41,Querétaro,22DPT0002V,20.63191807,-100.4420328,Acceso 4 Núm. 3
+22,Querétaro de Arteaga,42,San Juan del Rio,22DPT0001W,20.43167788,-99.98172283,Km 1.5 Carr. a San Pedro Ahuacatlan 
+22,Querétaro de Arteaga,80,Amealco,22DPT0003U,20.18205978,-100.1540709,Calle mirasol Núm. 423
+22,Querétaro de Arteaga,28,Aeronáutico,22DPT0004T,20.643307,-100.227413,Carr. Estatal 200 Queretaro-Tequisquiapan Km. 17 
+22,Querétaro de Arteaga,36,Querétaro II,22DPT0005S,0,0,"""Av. San Rafael Lote 12 Manzana 64 Col. Puertas de San Miguel. CP 76118"""
+23,Quintana Roo,7,Lic. Jesús Martínez Ross - Chetumal,23DPT0004S,18.5183887,-88.32558274,AV. Insurgentes Núm. 730
+23,Quintana Roo,9,Cancún,23DPT0001V,21.16868228,-86.82349205,"""Av. Ing García De La Torre Lote 4 2da.Mza. 1"""
+23,Quintana Roo,65,Cozumel,23DPT0002U,20.49597907,-86.95479155,Av. Lic. Pedro Joaquin Coldwell S/N Entre 21 Y 23
+23,Quintana Roo,2,Felipe Carrillo Puerto,23DPT0003T,19.57716643,-88.04461598,Calle 63 Núm.790 Y Av. Benito Juárez Exinternado Lazar
+23,Quintana Roo,86,Cancún II,23DPT0005R,21.185112,-86.850437,"""Región 228 Mza. 5 Lote 1 Ave. 20 DE Nov. Por 61"""
+23,Quintana Roo,97,Playa del Carmen,23DPT0007P,20.68513598,-87.05830336,"""Av. Tecnológico Lote 12 Mza. 1 2da. Mza. 79 Región 33"""
+23,Quintana Roo,98,Cancún III,23DPT0006Q,21.16953402,-86.87761903,"""Calle Pinzón Mza. 8 Lote 1. Galaxias Del Sol"""
+23,Quintana Roo,39,Cancún IV,23DPT0008O,21.194373,-86.889378,Avenida el cedral
+24,San Luis Potosí,43,Ing. Manuel Moreno Torres S.L.P.,24DPT0005Q,22.103375,-100.906999,Av. Promoción Núm. 215 Mza. 33
+24,San Luis Potosí,44,Ciudad Valles,24DPT0001U,22.00999806,-99.05057,Décima Entre Primera y Tercera
+24,San Luis Potosí,94,Matehuala,24DPT0003S,23.63174565,-100.63218,Carlos Fuentes Núm. 201 Esq. Monte De Oca
+24,San Luis Potosí,76,Villa de Reyes,24DPT0007O,21.79720889,-100.94248,Priv. CONALEP Núm. 11
+24,San Luis Potosí,5,San Luis Potosí,24DPT0009M,22.146973,-100.919632,Av. Parque Agua Azúl Núm. 1501
+25,Sinaloa,45,Los Mochis,25DPT0001T,25.809106,-109.007185,Veracruz Núm. 648 Nte.
+25,Sinaloa,46,Mazatlán I,25DPT0009L,23.20822889,-106.3646681,Carr. Internacional Al Sur Km. 4
+25,Sinaloa,62,Mazatlán II,25DPT0007N,23.196809,-106.419786,Rooselvelt Núm.519
+25,Sinaloa,95,Juan de Dios Bátiz,25DPT0018T,24.7717,-107.452248,Blvd. De Los Azahares Y Calle Ave. Del Paraiso S/N
+25,Sinaloa,14,Ing. José Antonio Padilla Segura-Culiacán II,25DPT0014X,24.778163,-107.453156,Calzada Aeropuerto Km. 7
+25,Sinaloa,15,Navolato,25DPT0005P,24.76203,-107.69434,Carr. Navolato-El Castillo Km. 1.5
+25,Sinaloa,16,El Carrizo,25DPT0013Y,26.155,-109.055,Domicilio Conocido
+25,Sinaloa,17,Juan José Ríos,25DPT0019S,25.76551555,-108.8213181,"""Carr. Internacional Km. 1609"""
+25,Sinaloa,18,Guasave,25DPT0006O,25.553772,-108.475852,Blvd. Juan De Dios Batiz Paredes Núm. 304
+25,Sinaloa,19,Mocorito,25DPT0010A,25.479235,-107.9200589,Camino La Brecha Entre G. Cuevas Y L. Cárdenas S/N
+25,Sinaloa,20,La Reforma,25DPT0003R,25.08095111,-108.0550661,Loma Del Tio Trini S/N
+25,Sinaloa,21,El Rosario,25DPT0011Z,22.993266,-105.865235,Carr. a Aguaverde Km. 1.5
+25,Sinaloa,15,Los Mochis II,25DPT0008M,25.793593,-109.012055,"""Av. Alameda S/N EntreE Río Las Cañas Y Dren Juárez"""
+25,Sinaloa,16,Culiacan III,25DPT0012Z,24.777929,-107.39434,Calzada De Las Torres S/N
+25,Sinaloa,17,Escuinapa,25DPT0021G,22.827374,-105.786238,Carr. a Tecapan Km. 1
+25,Sinaloa,29,Culiacan IV,25DPT0026B,24.777929,-107.39434,Carr. Culiacán-Imala Km. 2
+26,Sonora,47,Hermosillo I,26DPT0004P,29.029407,-110.910754,Calle De La Planta Y Carr. a Sahuaripa
+26,Sonora,48,Hermosillo II,26DPT0005O,29.083946,-110.996282,Av. Luis Donaldo Colosio Y Av. Los Angeles
+26,Sonora,49,Nacozari,26DPT0006N,30.37429541,-109.6878755,Calle Del Mercado S/N
+26,Sonora,50,Gral. Plutarco Elías Calles - Guaymas,26DPT0007M,27.920362,-110.891344,Miguel Alemán Núm. 210
+26,Sonora,96,Ciudad Obregón,26DPT0009K,27.482423,-109.914715,Francisco Villanueva Castelo Num. 2064
+26,Sonora,97,Empalme,26DPT0008L,27.965518,-110.801219,Calle 4 Av. 3 S/N
+26,Sonora,40,Navojoa,26DPT0016U,27.031231,-109.435216,Carr. Internacional Km. 6.5 Sur
+26,Sonora,41,Alvaro Obregón Salido - Huatabampo,26DPT0015V,26.829471,-109.634328,Aldama Prolongación S/N
+26,Sonora,42,Nogales,26DPT0011Z,31.2775554,-110.94433,Carr. Iinternacional Km. 5.5
+26,Sonora,48,Caborca,26DPT0014W,29.018611,-110.910158,Carr. Las Calabazas Km. 1.5
+26,Sonora,79,Hermosillo III,26DPT0017T,29.0196103,-110.9098309,Calle De La Planta Y Los Olivos S/N
+26,Sonora,2,San Luis Río Colorado,26DPT0013X,32.46167,-114.718052,Av. De La Transformación López Portillo S/N
+26,Sonora,53,Agua Prieta,26DPT0001S,31.31386002,-109.5333481,Calle 25 Av. 29 S/N
+26,Sonora,64,Magdalena de Kino,26DPT0018S,30.629345,-110.964317,Av. Niños Heroes Núm. 822
+27,Tabasco,51,Villahermosa I,27DPT0002Q,18.03293351,-92.89867401,Congreso De Chilpancingo S/N
+27,Tabasco,52,Cárdenas,27DPT0001R,17.98237113,-93.38006616,Profa. Rosario Gil Gonzáles S/N
+27,Tabasco,53,Macuspana,27DPT0005N,17.76908096,-92.58020461,Prolongación Alatorre S/N
+27,Tabasco,98,Villahermosa II,27DPT0003P,17.969053,-92.926493,Anillo Periférico Núm. 602
+27,Tabasco,99,Lic. Manrique Dagdug Urgell,27DPT0004O,17.81430457,-93.39855194,Av. De La Juventud S/N
+27,Tabasco,0,Paraíso,27DPT0006M,18.40628889,-93.20713806,Prolongación Santos Degollado S/N
+27,Tabasco,91,Comalcalco,27DPT0007L,18.250105,-93.225905,"""Blvd. Leandro Rovirosa wade Av. Unete S/N"""
+28,Tamaulipas,54,Tampico,28DPT0001Q,22.29577594,-97.85614729,Gral. Emiliano Zapata Y Lucio Blancos S/N
+28,Tamaulipas,55,Matamoros,28DPT0004N,25.87613581,-97.54652381,Av. De La Industria S/N
+28,Tamaulipas,27,Ciudad Mante,28DPT0005M,22.76138806,-98.95979889,Libertad Núm. 1600 Nte.
+28,Tamaulipas,29,Reynosa,28DPT0003O,26.06355716,-98.31175804,Londres Entre Munich Y Berlin S/N
+28,Tamaulipas,72,Ciudad Victoria,28DPT0002P,23.771023,-99.147309,Av. 5 De Mayo Nte. Núm. 3320
+28,Tamaulipas,0,Río Bravo,28DPT0006L,25.99255206,-98.12119246,Carr. Matamoros-Mazatlán Km. 72
+28,Tamaulipas,46,Nuevo Laredo,28DPT0007K,27.46937188,-99.5450592,Prolongación Rio Grande Y Chicagos S/N
+28,Tamaulipas,59,Miguel Alemán,28DPT0008J,26.3878703,-99.03313279,Av. Los Aldamas S/N Esq. Av. Las Torres
+29,Tlaxcala,56,Amaxac de Guerrero,29DPT0001P,19.35399701,-98.16563129,Av. Vicente Guerrero Núm. 59
+29,Tlaxcala,1,Zacualpan,29DPT0002O,19.2406136,-98.26064587,Km. 3.5 Carretera Tepeyanco - Villalta S/N
+29,Tlaxcala,51,Teacalco,29DPT0003N,19.24085941,-98.30890417,Blvd. S/N 
+30,Veracruz Llave,57,Veracruz I,30DPT0002D,19.14765001,-96.13352537,Paseo Floresta Ote. S/N. Esq. Bahamas
+30,Veracruz Llave,58,Don Juan Osorio López,30DPT0005A,18.13938242,-94.49375689,Av. Universidad Veracruz Km. 9.5
+30,Veracruz Llave,3,Potrero,30DPT0001E,18.89671694,-96.78758806,Domicilio Conocido S/N
+30,Veracruz Llave,4,Juan Díaz Covarrubias,30DPT0004B,18.15456782,-95.18646955,CONALEP Núm. 1
+30,Veracruz Llave,22,Dr. Gonzalo Aguirre Beltrán,30DPT0003C,18.37645548,-95.79069346,Av. Papaloapan S/N
+30,Veracruz Llave,44,Veracruz II,30DPT0006Z,19.21166787,-96.1642313,"""Prolongación Cuahutémoc Esq. Verduzco S/N"""
+30,Veracruz Llave,62,Manuel Rivera Cambas,30DPT0008Y,19.54033655,-96.90929532,Jorge Cerdán Núm. 32
+30,Veracruz Llave,65,Lic. Jesús Reyes Heroles,30DPT0007Z,20.94331915,-97.41002083,2da. De General Silva Y Nacional
+30,Veracruz Llave,77,Poza Rica,30DPT0010M,20.54011821,-97.428689,Misantla S/N
+30,Veracruz Llave,1,Dr. Guillermo Figueroa Cárdenas,30DPT0009X,18.42987224,-95.21586657,Av. Dr. Guillermo Figueroa Cárndenas S/N
+30,Veracruz Llave,44,Manuel Maples Arce,30DPT0011L,20.44137823,-97.33909249,Prolongación Av. 16 De Septiembre S/N
+30,Veracruz Llave,52,Orizaba,30DPT0012K,18.87050861,-97.09665298,Av. Vicente M. Corona S/N
+30,Veracruz Llave,20,Vega de Alatorre,30DPT0013J,19.97323652,-96.60632372,"""Carr. Federal  Carr. a Nautla Km. 80"""
+30,Veracruz Llave,37,Álamo,30DPT0014I,20.9106,-97.67497,"""Calle Niño Perdido Núm. 4 Col. Francisco I Madero CP. 92730"""
+30,Veracruz Llave,38,Córdoba,30DPT0015H,18.86759,-96.91914,"""Retorno Enrique Vargas Amayo s/n Col. Unidad Hab. Erasto Portilla CP 94680"""
+31,Yucatán,59,Mérida I,31DPT0001D,20.97056648,-89.5880878,55 Num. 729
+31,Yucatán,60,Mérida II,31DPT0002C,20.94740727,-89.65637684,108 Núm. 917
+31,Yucatán,5,Valladolid,31DPT0003B,20.68936292,-88.18060398,Carr. Valladolid-Pto. Juarez Limite Zona Urbana
+31,Yucatán,64,Tizimin,31DPT0004A,21.15175574,-88.17352295,Km. 2.5 Carr. Tizimin-Buctzotz
+31,Yucatán,24,Mérida III,31DPT0005Z,21.01757452,-89.66221333,Tab. Catastral 13800 Perif. Pte. Km 38 S/N
+32,Zacatecas,36,Maestra Dolores Castro Varela,32DPT0001C,22.75872915,-102.5332332,Av. México Núm. 10
+32,Zacatecas,37,Fresnillo,32DPT0002B,23.18257699,-102.8805256,PALOMAR NÚM 715
+32,Zacatecas,26,Mazapil,32DPT0003A,24.64212058,-101.5509117,Venustiano Carranza S/N
