@@ -42,10 +42,10 @@ for(i in cve_ent){
 }
 
 #Para visualizar los planteles por cada entidad se despliega cada uno de los mapas-
-View(mapa[[1]])
-View(mapa[[2]])
+mapa[[1]]
+mapa[[2]]
 ...
-View(mapa[[32]]
+mapa[[32]]
 
 #Planteles por entidad federativa
  data %>% group_by(entidad) %>% summarise(Tot_ent = n()) %>% 
